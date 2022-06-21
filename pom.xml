@@ -12,7 +12,7 @@
 	<artifactId>spring-boot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-boilerplate</name>
-	<description>Spring Boot Boilerplate is a starter kit. This project includes : Spring Boot(3.0.0), Spring Data JPA, Spring Security, PostgreSQL Driver, Lombok, Spring Boot DevTools, Spring Data Elasticsearch (Access+Driver), Spring Web</description>
+	<description>Spring Boot Boilerplate is a starter kit. This project includes : Spring Boot(2.7.1), Spring Data JPA, Spring Security, PostgreSQL Driver, Lombok, Spring Boot DevTools, Spring Data Elasticsearch (Access+Driver), Spring Web</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
